@@ -11,16 +11,15 @@
 <a href="https://codeforces.com/profile/ruhlan33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ruhlan33" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Support:</h3>
-<table style="border:none;">
+<table>
   <tr>
+    <td style="vertical-align: middle; padding-left: 10px;">
+        <h3>Support Me: </h3>
+      </td>
     <td>
       <a href="https://www.buymeacoffee.com/ruhlanrzayev">
         <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ruhlanrzayev" />
       </a>
-    </td>
-    <td style="vertical-align: middle; padding-left: 10px;">
-      Support Me
     </td>
   </tr>
 </table>
