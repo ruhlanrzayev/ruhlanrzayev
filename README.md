@@ -12,9 +12,10 @@
 </p>
 
 <div style="display: flex; align-items: center;">
-  <h3 align="left">Support Me:</h3>
+  <h3 style="margin: 0; padding-right: 10px;">Support:</h3>
   <a href="https://www.buymeacoffee.com/ruhlanrzayev" style="display: inline-block;">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ruhlanrzayev" />
   </a>
 </div>
+
 
