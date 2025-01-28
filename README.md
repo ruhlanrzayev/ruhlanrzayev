@@ -12,7 +12,7 @@
 </p>
 
 <h3 align="left">Support:</h3>
-<table>
+<table style="border:none;">
   <tr>
     <td>
       <a href="https://www.buymeacoffee.com/ruhlanrzayev">
