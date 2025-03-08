@@ -2,7 +2,7 @@
 <h3 align="center">A passionate web developer from Azerbaijan</h3>
 
 📫 How to reach me :  **collabsruhlanrzayev@outlook.com** <br />
-My Portfolio : <a href="https://ruhlanrzayev.me/" target="_blank">Link</a>
+My Portfolio : **https://ruhlanrzayev.me/**
 
 
 
