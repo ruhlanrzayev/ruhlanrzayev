@@ -3,4 +3,3 @@
 
 <p align="center">📫 How to reach me:  <a href="mailto:contactruhlanrzayev@gmail.com">contactruhlanrzayev@gmail.com</a> <br /></p>
 <p align="center"><a href
-="https://ruhlanrzayev.me/images/RuhlanRzayevCV.pdf" target="_blank">Get My CV</a></p>
